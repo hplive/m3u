@@ -1,4 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/medium",SPORTV1
-https://e15.dotice.me/plyvivo/0WdU2IME1r89p7yBYASa/chunklist.m3u8 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=96000
+96000/https://e15.dotice.me/plyvivo/0WdU2IME1r89p7yBYASa/chunklist.m3u8
