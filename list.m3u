@@ -9,11 +9,17 @@ https://cdn3.wowza.com/1/ek1yY0NlQ3BLQ3Js/anoyd0wy/hls/6y851rcg/2728/chunklist.m
 https://cdn3.wowza.com/1/NXUwUkNXWC84UFAv/OXhJZE5k/hls/jdbgpqbj/2728/chunklist.m3u8
 #EXTINF:-1,sporttv5
 https://cdn3.wowza.com/1/Mm0yNUJTN3ZsK0RF/ZG5xL2tC/hls/xfjppdpf/2728/chunklist.m3u8
+#EXTINF:-1,ELEVEN 1
+https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/x11gq4.m3u8?s=KAE45sHlc-MD5_USESYceA&e=1610327691
+#EXTINF:-1,ELEVEN 2
+https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/w0fycu.m3u8?s=LXE9N9NkmPokCtFOLumfog&e=1610327810
+#EXTINF:-1,ELEVEN 3
+https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/sanrhbzys1i.m3u8?s=sGZvMv-1NL7C-GCsnHP9kg&e=1610327943
 #EXTINF:-1,SKY SPORTS FOOTBALL
 https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/bnurwvig3i.m3u8?s=ja_USuADyp-Qu2yRVDLqdw&e=1610302161
-#EXTINF:-1,SKY SPORTS F1
-https://e1.stephn.xyz/ingest01/46569.m3u8?sf=eGtxdHBKZkp3cA==&token=To2Uao6GXkawhDAVzXBB7Q&expires=1610295406&rnd=
-#EXTINF:-1,sporttv1 ( stream 2 )
+#EXTINF:-1,sporttv1 (S2)
 https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/qrm8lzldnqat.m3u8?s=m3zfLaKOKnXlATzXq7UaxQ&e=1610303552
-#EXTINF:-1,sporttv2 ( stream 2 )
+#EXTINF:-1,sporttv2 (S2)
 https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/60lewo5c36hzw.m3u8?s=gtXDs7HOLuIF9q46VHlXfA&e=1610303703
+#EXTINF:-1,ALEATORIO 1
+https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/olvvdi2gex3.m3u8?s=BIRQBHHIsuXl9cU7-CFE2A&e=1610327515
