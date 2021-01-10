@@ -13,3 +13,7 @@ https://cdn3.wowza.com/1/Mm0yNUJTN3ZsK0RF/ZG5xL2tC/hls/xfjppdpf/2728/chunklist.m
 https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/bnurwvig3i.m3u8?s=ja_USuADyp-Qu2yRVDLqdw&e=1610302161
 #EXTINF:-1,SKY SPORTS F1
 https://e1.stephn.xyz/ingest01/46569.m3u8?sf=eGtxdHBKZkp3cA==&token=To2Uao6GXkawhDAVzXBB7Q&expires=1610295406&rnd=
+#EXTINF:-1,sporttv1 ( stream 2 )
+https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/qrm8lzldnqat.m3u8?s=m3zfLaKOKnXlATzXq7UaxQ&e=1610303552
+#EXTINF:-1,sporttv2 ( stream 2 )
+https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/60lewo5c36hzw.m3u8?s=gtXDs7HOLuIF9q46VHlXfA&e=1610303703
