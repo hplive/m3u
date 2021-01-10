@@ -9,3 +9,7 @@ https://cdn3.wowza.com/1/ek1yY0NlQ3BLQ3Js/anoyd0wy/hls/6y851rcg/2728/chunklist.m
 https://cdn3.wowza.com/1/NXUwUkNXWC84UFAv/OXhJZE5k/hls/jdbgpqbj/2728/chunklist.m3u8
 #EXTINF:-1,sporttv5
 https://cdn3.wowza.com/1/Mm0yNUJTN3ZsK0RF/ZG5xL2tC/hls/xfjppdpf/2728/chunklist.m3u8
+#EXTINF:-1,SKY F1
+https://e1.stephn.xyz/ingest01/46569.m3u8?sf=eGtxdHBKZkp3cA==&token=DtvMu7M6whWmMBm5eoH-jQ&expires=1610261789&rnd=
+#EXTINF:-1,BTV?
+https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/0zer896oz3mv6.m3u8?s=sQPWHDdRUcNN-UkgcMmnvg&e=1610269399
