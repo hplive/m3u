@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1,A
+#EXTINF:-1,sporttv1
 https://cdn3.wowza.com/1/UmRJTkFqcDlQVlNn/ZW5ZWDdN/hls/h6bntjhn/2728/chunklist.m3u8
-#EXTINF:-1,B
+#EXTINF:-1,sporttv2
 https://cdn3.wowza.com/1/OHhXbHJYRkp2Yjk2/Sk5KYmFh/hls/nc3fxqmb/2728/chunklist.m3u8
-EXTINF:-1,C
+#EXTINF:-1,sporttv3
 https://cdn3.wowza.com/1/ek1yY0NlQ3BLQ3Js/anoyd0wy/hls/6y851rcg/2728/chunklist.m3u8
-EXTINF:-1,D
+#EXTINF:-1,sporttv4
 https://cdn3.wowza.com/1/NXUwUkNXWC84UFAv/OXhJZE5k/hls/jdbgpqbj/2728/chunklist.m3u8
-EXTINF:-1,E
+#EXTINF:-1,sporttv5
 https://cdn3.wowza.com/1/Mm0yNUJTN3ZsK0RF/ZG5xL2tC/hls/xfjppdpf/2728/chunklist.m3u8
