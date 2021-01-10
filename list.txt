@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,A
+https://cdn3.wowza.com/1/UmRJTkFqcDlQVlNn/ZW5ZWDdN/hls/h6bntjhn/2728/chunklist.m3u8
+#EXTINF:-1,B
+https://cdn3.wowza.com/1/OHhXbHJYRkp2Yjk2/Sk5KYmFh/hls/nc3fxqmb/2728/chunklist.m3u8
+EXTINF:-1,C
+https://cdn3.wowza.com/1/ek1yY0NlQ3BLQ3Js/anoyd0wy/hls/6y851rcg/2728/chunklist.m3u8
+EXTINF:-1,D
+https://cdn3.wowza.com/1/NXUwUkNXWC84UFAv/OXhJZE5k/hls/jdbgpqbj/2728/chunklist.m3u8
+EXTINF:-1,E
+https://cdn3.wowza.com/1/Mm0yNUJTN3ZsK0RF/ZG5xL2tC/hls/xfjppdpf/2728/chunklist.m3u8
