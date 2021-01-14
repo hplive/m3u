@@ -9,6 +9,9 @@ https://cdn3.wowza.com/1/ek1yY0NlQ3BLQ3Js/anoyd0wy/hls/6y851rcg/2728/chunklist.m
 https://cdn3.wowza.com/1/NXUwUkNXWC84UFAv/OXhJZE5k/hls/jdbgpqbj/2728/chunklist.m3u8
 #EXTINF:5,SPORT TV5
 https://cdn3.wowza.com/1/Mm0yNUJTN3ZsK0RF/ZG5xL2tC/hls/xfjppdpf/2728/chunklist.m3u8
+#EXTINF:13,SKY SPORTS F1
+https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/c2kxuno.m3u8?s=mBxRR99taS6TrUP_t-Adrg&e=1610687983
+
 #EXTINF:6,ELEVENSPORTS 1
 https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/x11gq4.m3u8?s=KAE45sHlc-MD5_USESYceA&e=1610327691
 #EXTINF:7,ELEVENSPORTS 2
@@ -21,19 +24,6 @@ https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/bnurwvig3i.m3u8?s=ja_USuADyp-Qu2y
 https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/qrm8lzldnqat.m3u8?s=m3zfLaKOKnXlATzXq7UaxQ&e=1610303552
 #EXTINF:11,SPORT TV2 (S2)
 https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/60lewo5c36hzw.m3u8?s=gtXDs7HOLuIF9q46VHlXfA&e=1610303703
-#EXTINF:12,ALEATORIO 1
-https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/olvvdi2gex3.m3u8?s=BIRQBHHIsuXl9cU7-CFE2A&e=1610327515
-#EXTINF:13,SKY SPORTS F1
-https://e1.stephn.xyz/ingest01/46569.m3u8?sf=eGtxdHBKZkp3cA==&token=VdNs-v681PGfyBMLGXpzDg&expires=1610336682&rnd=
-https://e1.stephn.xyz/ingest01/46569.m3u8?sf=eGtxdHBKZkp3cA==&token=e9Z7mjFp9t22PbbMybgMFA&expires=1610337137&rnd=
-#EXTINF:14,SKY SPORTS MAIN EVENT
-https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/4g76m.m3u8?s=szXgaOm8oDyf256wNA4RKw&e=1610329383
 #EXTINF:15,ELEVENSPORTS 2
 https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/w0fycu.m3u8?s=DSE-RmIHraslt9Ief5rkCw&e=1610342682
-#EXTINF:16, BT SPORT 1
-https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/5ub3rtx.m3u8?s=U83dJL8TfTGAgd_KkhfuLA&e=1610345664
 
-#EXTINF:18, BT SPORT 3
-https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/9vcwbs7y.m3u8?s=y1YsMvu8aP-P9JVvARoe3w&e=1610345795
-#EXTINF:19, BT SPORT ESPN
-https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/z60vln6kd.m3u8?s=3dO9aqPM6DQG5-bV-p8Q_g&e=1610345861
