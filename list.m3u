@@ -1,16 +1,26 @@
 #EXTM3U
 #EXTINF:1,SPORT TV1
 https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/walxjawfo5x.m3u8?s=5TLOVJK_IrAplUBBv_GHuQ&e=1610678560
+#EXTINF:1,SPORT TV1
+https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/qrm8lzldnqat.m3u8?s=iZ9dlOVayLp5r7dQNNJsxA&e=1610688841
+#EXTINF:1,SPORT TV1
+http://iptv.rent:8080/live/martinwalter1/mpcder44/5442.m3u8
 #EXTINF:2,SPORT TV2
 https://cdn3.wowza.com/1/OHhXbHJYRkp2Yjk2/Sk5KYmFh/hls/nc3fxqmb/2728/chunklist.m3u8
+#EXTINF:2,SPORT TV2
+http://iptv.rent:8080/live/martinwalter1/mpcder44/5441.m3u8%20
 #EXTINF:3,SPORT TV3
 https://cdn3.wowza.com/1/ek1yY0NlQ3BLQ3Js/anoyd0wy/hls/6y851rcg/2728/chunklist.m3u8
 #EXTINF:4,SPORT TV4
 https://cdn3.wowza.com/1/NXUwUkNXWC84UFAv/OXhJZE5k/hls/jdbgpqbj/2728/chunklist.m3u8
 #EXTINF:5,SPORT TV5
 https://cdn3.wowza.com/1/Mm0yNUJTN3ZsK0RF/ZG5xL2tC/hls/xfjppdpf/2728/chunklist.m3u8
-#EXTINF:13,SKY SPORTS F1
+#EXTINF:20,SKY SPORTS F1
+https://e1.stephn.xyz/ingest013/46569.m3u8?sf=eGtxdHBKZkp3cA==&token=8EGGutud1DCxm0lDniHagQ&expires=1610680951&rnd=
+#EXTINF:21,SKY SPORTS F1
 https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/c2kxuno.m3u8?s=mBxRR99taS6TrUP_t-Adrg&e=1610687983
+#EXTINF:22,SKY SPORTS F1
+https://e13.dotice.me/plyvivo/DiYKPETXUs7dSCg2lJBh/chunklist.m3u8
 
 #EXTINF:6,ELEVENSPORTS 1
 https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/x11gq4.m3u8?s=KAE45sHlc-MD5_USESYceA&e=1610327691
